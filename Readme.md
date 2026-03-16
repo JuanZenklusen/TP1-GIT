@@ -1,6 +1,6 @@
 Nombre de los integrantes del grupo:
 
-Juan Manuel Roldan
-Juan Ignacio Zenklusen
-Catriel Hubeli
-Juan Fino
+- Juan Manuel Roldan
+- Juan Ignacio Zenklusen
+- Catriel Hubeli
+- Juan Fino
