@@ -1,6 +1,6 @@
 Nombre de los integrantes del grupo:
 
-- Juan Manuel Roldan
+- Nombre: Juan Manuel Roldan. Edad: 31
 - Juan Ignacio Zenklusen
 - Catriel Hubeli
 - Juan Fino
