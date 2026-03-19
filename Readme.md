@@ -1,7 +1,7 @@
 Nombre de los integrantes del grupo:
 
-- Juan Manuel Roldan
 - Juan Ignacio Zenklusen [Más información](juanZenklusen.md)
+- Juan Manuel Roldan. [Mas informacion](Juan_Roldan.md)
 - Catriel Hubeli
 - Juan Fino
 
